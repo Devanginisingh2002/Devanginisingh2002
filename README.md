@@ -36,8 +36,7 @@
      -  A hardware-based project, solves the issue of Social Distancing, a mechanism that allows users to maintain physical  distance.
      - Software, requirement Using Arduino coding (basics of C++), and Tableau for the data visualisation.
      - Hardware requirement, I use two Arduinos as one is connected to an ultrasonic sensor, buzzer, and vibration motor.  Another
-       Arduino is attached to the LCD to avoid gathering people by displaying "Safe distance" and "Wear masks" on the LCD.  Patient Care
-       Monitoring System.
+       Arduino is attached to the LCD to avoid gathering people by displaying "Safe distance" and "Wear masks" on the LCD.
      
  - 🟢 Patient Care Monitoring System
      - Demonstration: [video](https://youtu.be/xTT_UPpeKv4)
