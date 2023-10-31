@@ -15,7 +15,7 @@
   - Portfolio: [DevanginiSingh](https://devanginisingh2002.github.io/Portfolio/)
   - Instagram: [devanginiraghuvanshi_dv](https://instagram.com/devanginiraghuvanshi_dv)
   - Resume: [Devangini Singh](https://drive.google.com/file/d/1135rsBjiF3WC6JXMEjCqbJxYx5oyNnmG/view?usp=sharing)
-  - Mail: **devangini123raghuvanshi@gmail.com** (For any work).
+  - Mail: devangini123raghuvanshi@gmail.com (For any work).
 
 *************************************************************************************************
 🔴 Some major projects
