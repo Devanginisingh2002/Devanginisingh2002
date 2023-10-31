@@ -8,7 +8,7 @@
 - Tools & Platforms: Git, GitHub, TinkerCad, Jira Software, Tableau.
 - Frameworks & Libraries: React.js, Node.js, MongoDB, SQL, Bootstrap, Tailwind CSS, Sass, Material UI.
 
-
+************************************************************************
 
 - 👨‍💻 My socials are listed below
   - LinkedIn at [devangini2002](https://www.linkedin.com/in/devanginisingh2002
