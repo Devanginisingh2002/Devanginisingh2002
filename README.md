@@ -8,7 +8,8 @@
 - Tools & Platforms: Git, GitHub, TinkerCad, Jira Software, Tableau.
 - Frameworks & Libraries: React.js, Node.js, MongoDB, SQL, Bootstrap, Tailwind CSS, Sass, Material UI.
 
-************************************************************************
+**************************************************************
+**************************************************************
 
 - 👨‍💻 My socials are listed below
   - LinkedIn at [devangini2002](https://www.linkedin.com/in/devanginisingh2002
@@ -17,6 +18,8 @@
   - Resume at [Devangini Singh](https://drive.google.com/file/d/1135rsBjiF3WC6JXMEjCqbJxYx5oyNnmG/view?usp=sharing)
   - Mail me at **devangini123raghuvanshi@gmail.com** about any work, or if you're just looking to get in touch
 
+**************************************************************
+**************************************************************
 
 - 📄 Some major projects
   - 🟢 Amazon  
