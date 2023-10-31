@@ -19,18 +19,18 @@
 
 *************************************************************************************************
 🔴- Some major projects
-  🟢 Amazon
+ - 🟢 Amazon
      -  Developed a clone-based website of Amazon featuring dynamic pages and responsive design of frontend.
      -  Used HTML, CSS, and JavaScript.
      -  Deployed the website using GitHub, leveraging its global CDN network for fast and reliable delivery to users worldwide.
    
-  🟢 Youtube  
+  - 🟢 Youtube  
       -  Developed an easy YouTube structure.
       -  Used HTML and CSS for the front-end development. And, give the API feature with the javascript.
       -  Deployed the project on GitHub, ensuring fast and reliable.
       -  Ability to search posts and use them according to preferences.
 
-  🟢  Social Distancing Device
+ - 🟢  Social Distancing Device
      - Demonstration: [video](https://youtu.be/t4wBPgHjj4k)
      - Documentation: [Doc](https://drive.google.com/drive/folders/1grW_BKuuz829A5os3bQ42C5gyVEAMfGh?usp=sharing)
      -  A hardware-based project, solves the issue of Social Distancing, a mechanism that allows users to maintain physical  distance.
@@ -39,7 +39,7 @@
        Arduino is attached to the LCD to avoid gathering people by displaying "Safe distance" and "Wear masks" on the LCD.  Patient Care
        Monitoring System.
      
-  🟢 Patient Care Monitoring System
+ - 🟢 Patient Care Monitoring System
      - Demonstration: [video](https://youtu.be/xTT_UPpeKv4)
      - Documentation: [Doc](https://drive.google.com/drive/folders/1C_hH51QOQUd72DJutwMIggo1fnV2O9UC?usp=sharing)
      - A hardware project, using Arduino Uno, Raspberry Pi, LM-35 Sensor, Pulse Sensor, Switch button, Buzzer, and two LCDs.
