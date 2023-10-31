@@ -18,7 +18,7 @@
   - Mail: **devangini123raghuvanshi@gmail.com** (For any work).
 
 *************************************************************************************************
-🔴- Some major projects
+🔴 Some major projects
  - 🟢 Amazon
      -  Developed a clone-based website of Amazon featuring dynamic pages and responsive design of frontend.
      -  Used HTML, CSS, and JavaScript.
