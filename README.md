@@ -1,7 +1,6 @@
 *************************************************************************************************
 
-**Hey 👋, I am Devangini Singh**
-🔴
+**Hey 👋, I am Devangini Singh** 🔴
 - 📍 I live in Varanasi, India
 - I am currently working with technologies based on Java.
 - I work in product design, front-end development, Back-end development, and, UI engineering.
@@ -22,7 +21,8 @@
 *************************************************************************************************
 🔴
 - 🔭 Some major projects
-  - 🟢 Amazon  
+  - 🟢 Amazon
+    - LinkedIn at [/devanginisingh2002](https://www.linkedin.com/in/devangini2002)  
     -  Developed a clone-based website of Amazon featuring dynamic pages and responsive design of frontend.
     -  Used HTML, CSS, and JavaScript.
     -  Deployed the website using GitHub, leveraging its global CDN network for fast and reliable delivery to users worldwide.
