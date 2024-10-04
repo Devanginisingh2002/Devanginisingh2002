@@ -1,7 +1,7 @@
 *************************************************************************************************
 
 **Hey 👋, I am Devangini Singh** 🔴
-- 📍 I live in Varanasi, India
+- 📍 I live in Gurgaon, India
 - I am currently working with technologies based on Java.
 - I work in product design, front-end development, Back-end development, and, UI engineering.
 - I generally create elegant components for design systems and react projects that use UI components.
