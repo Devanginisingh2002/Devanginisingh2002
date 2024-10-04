@@ -2,7 +2,7 @@
 
 **Hey 👋, I am Devangini Singh** 🔴
 - 📍 I live in Gurgaon, India
-- I am currently working with technologies based on Java.
+- I am currently doing an internship in Shopclues (as a Full Stack Developer)
 - I work in product design, front-end development, Back-end development, and, UI engineering.
 - I generally create elegant components for design systems and react projects that use UI components.
 - Programming Languages: Javascript, Java, C++, Python(Basics).
