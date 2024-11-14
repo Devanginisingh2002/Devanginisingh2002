@@ -18,6 +18,13 @@
   - Mail: devangini123raghuvanshi@gmail.com (For any work).
 
 *************************************************************************************************
+  
+🔴 Work Experience
+🟢 Working as a Software Developer Intern at - Shopclues (Clues pvt limited)
+🟢 Worked as a Full Stack Developer Intern at Codehelp.in
+
+*************************************************************************************************
+
 🔴 Some major projects
  - 🟢  Social Distancing Device
      - Demonstration: [video](https://youtu.be/t4wBPgHjj4k)
